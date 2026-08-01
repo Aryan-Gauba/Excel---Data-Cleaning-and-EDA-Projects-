@@ -41,4 +41,6 @@ Clean data is the foundation of accurate analysis. This project focuses on the f
 <li>Data Management Best Practices: Implementing filtering, removing irrelevant columns, and using "Paste as Value" to finalize datasets while preserving raw source data.</li>
 </ul>
 
-
+### 👤 Author & Connect
+#### LinkedIn: Aryan Gauba - https://www.linkedin.com/in/aryan-gauba/
+#### GitHub: @Aryan-Gauba - https://github.com/Aryan-Gauba/
