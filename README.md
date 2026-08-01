@@ -17,7 +17,7 @@ Data Analysis: Built Pivot Tables to aggregate metrics, such as average income a
 Created interactive charts (bar and line charts) to visualize trends.
 Implemented Slicers (Marital Status, Region, Education) for dynamic filtering across all charts, allowing users to drill down into specific customer demographics.
 Design: Custom dashboard formatting, including gridline removal and color coordination, to ensure a professional and readable presentation.
-#### Technologies Used
+### Technologies Used
 Microsoft Excel (Pivot Tables, Slicers, Data Cleaning, Conditional Logic)
 
 ## Excel Data Cleaning Project
@@ -27,12 +27,13 @@ https://1drv.ms/x/c/d9dc15997d075bcf/IQDzZ2rtxAPOQo93tchXPc2RAVXEdPTufEsBlFGCzgD
 Clean data is the foundation of accurate analysis. This project focuses on the fundamental techniques used to identify and rectify common data quality issues.
 
 ### Key Techniques Covered:
-Duplicate Removal: Identifying and eliminating redundant entries to ensure data integrity.
-Text Standardization: Utilizing functions like PROPER, UPPER, and LOWER to ensure consistent formatting across text columns.
-Data Cleaning Functions: Employing the TRIM function to remove unwanted leading, trailing, and excessive internal whitespace.
-Numerical & Currency Handling: Cleaning and formatting currency data to allow for accurate numerical calculations.
-Date Standardization: Normalizing date formats to ensure compatibility with various analytical systems.
-Data Management Best Practices: Implementing filtering, removing irrelevant columns, and using "Paste as Value" to finalize datasets while preserving raw source data.
-
+<ul>
+<li>Duplicate Removal: Identifying and eliminating redundant entries to ensure data integrity.</li>
+<li>Text Standardization: Utilizing functions like PROPER, UPPER, and LOWER to ensure consistent formatting across text columns.</li>
+<li>Data Cleaning Functions: Employing the TRIM function to remove unwanted leading, trailing, and excessive internal whitespace.</li>
+<li>Numerical & Currency Handling: Cleaning and formatting currency data to allow for accurate numerical calculations.</li>
+<li>Date Standardization: Normalizing date formats to ensure compatibility with various analytical systems.</li>
+<li>Data Management Best Practices: Implementing filtering, removing irrelevant columns, and using "Paste as Value" to finalize datasets while preserving raw source data.</li>
+</ul>ul
 
 
