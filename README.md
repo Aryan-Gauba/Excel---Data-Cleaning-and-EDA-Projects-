@@ -2,6 +2,8 @@
 ## Bike Buyers Data Analysis Dashboard
 https://1drv.ms/x/c/d9dc15997d075bcf/IQDw17Bp8xkkS4ZlUlC1REhCAcukasCe4-bc6wA0QoynRw4?e=znjlrJ
 
+<img src = "Screenshot 2026-08-01 215008.png" alt="E.D.A Project Screenshot" width=800px>
+
 ### Project Overview
 In this project, I analyzed a dataset of potential bike buyers to identify patterns in purchasing behavior. The goal was to transform raw, unformatted data into actionable insights that can be explored through a user-friendly interface.
 
