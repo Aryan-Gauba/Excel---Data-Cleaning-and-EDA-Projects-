@@ -1,4 +1,5 @@
 # Excel Projects
+<hr>
 ## Bike Buyers Data Analysis Dashboard
 https://1drv.ms/x/c/d9dc15997d075bcf/IQDw17Bp8xkkS4ZlUlC1REhCAcukasCe4-bc6wA0QoynRw4?e=znjlrJ
 
@@ -19,6 +20,8 @@ Implemented Slicers (Marital Status, Region, Education) for dynamic filtering ac
 Design: Custom dashboard formatting, including gridline removal and color coordination, to ensure a professional and readable presentation.
 ### Technologies Used
 Microsoft Excel (Pivot Tables, Slicers, Data Cleaning, Conditional Logic)
+
+<hr>
 
 ## Excel Data Cleaning Project
 https://1drv.ms/x/c/d9dc15997d075bcf/IQDzZ2rtxAPOQo93tchXPc2RAVXEdPTufEsBlFGCzgDfdXs?e=sah9Nw
